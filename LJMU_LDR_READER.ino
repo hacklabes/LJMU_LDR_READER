@@ -1,5 +1,5 @@
 const int NUM_SENSORS = 5;
-const int NUM_SAMPLES = 256;
+const int NUM_SAMPLES = 128;
 
 const int DEBUG = 0;
 
